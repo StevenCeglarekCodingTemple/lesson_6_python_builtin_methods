@@ -12,7 +12,6 @@ shopping_cart.insert(0, "eggs")
 shopping_cart.insert(2, "cheese")
 print("After Insert: ", shopping_cart)
 
-
 # Adding Multiple Items
 more_items = ["butter", "yogurt"]
 shopping_cart.extend(more_items)
